@@ -1,7 +1,7 @@
 # AIDA-REFF
 Automation Refferal for aida
 
-![Tampilan Bot](image1.jpg)
+![Tampilan Bot](image2.jpg)
 
 ## Main Features
 
