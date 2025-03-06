@@ -13,7 +13,7 @@ Automation Refferal for aida
 
 1. Clone Code
    ```sh
-   git clone h
+   git clone https://github.com/jeripangestu/AIDA-REFF.git
    ```
 2. Navigate to the project directory:
    ```sh
